@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+scipy = "*"
+pandas = "*"
+scikit-learn = "*"
+
+xgboost = "*"
+lightgbm = "*"
+tensorflow = "*"
+keras = "*"
+hyperopt = "*"
+bhtsne = "==0.1.9"
+rgf_python = "*"
+umap-learn = "*"
+
+[requires]
+python_version = "3.7"
