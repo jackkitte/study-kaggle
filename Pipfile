@@ -10,7 +10,6 @@ numpy = "*"
 scipy = "*"
 pandas = "*"
 scikit-learn = "*"
-
 xgboost = "*"
 lightgbm = "*"
 tensorflow = "*"
@@ -19,6 +18,8 @@ hyperopt = "*"
 bhtsne = "==0.1.9"
 rgf_python = "*"
 umap-learn = "*"
+ipykernel = "*"
+yapf = "*"
 
 [requires]
 python_version = "3.7"
